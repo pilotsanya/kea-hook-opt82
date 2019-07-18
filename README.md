@@ -4,7 +4,7 @@ Option 61 change from option 82 (ip-port/mac-port)
 
 IP match as 10.
 
-If comment host4_identifier, then use client-id in table hosts
+If comment host4_identifier, then use only client-id in table hosts
 
 For example
 

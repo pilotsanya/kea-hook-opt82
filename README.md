@@ -1,6 +1,6 @@
 The hook is fork of https://gist.github.com/heggi/90390c135bef31640bbb8f74e1cb0fb4
 
-Option 61 change from option 82 (ip-port/mac-port)
+The hook change option 61 from option 82 (ip-port/mac-port) and generate flex-id from option 82
 
 IP match as 10.
 

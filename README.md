@@ -6,6 +6,8 @@ IP match as 10.
 
 If comment host4_identifier, then use only client-id in table hosts
 
+You can use client-id and/or flex-id in table hosts
+
 For example
 
     "hosts-database": {

@@ -18,7 +18,7 @@ For example
          "host": "localhost",
          "port": 3306
     },
-    "host-reservation-identifiers":  [ "flex-id" ],
+    "host-reservation-identifiers":  [ "client-id", "flex-id" ],
     
     "hooks-libraries": [
                 {

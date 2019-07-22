@@ -45,4 +45,4 @@ ip
 
 mac
 
-    INSERT INTO hosts (dhcp_identifier, dhcp_identifier_type, dhcp4_subnet_id, ipv4_address) VALUES (unhex('11223344556601'), 4, 1, INET_ATON('192.0.2.160'));
+    INSERT INTO hosts (dhcp_identifier, dhcp_identifier_type, dhcp4_subnet_id, ipv4_address) VALUES (unhex('1122334455662D01'), 4, 1, INET_ATON('192.0.2.160'));

@@ -2,8 +2,8 @@
 #include <dhcp/pkt4.h>
 #include <log/macros.h>
 #include <log/logger_support.h>
-#include <util/encode/hex.h>
-#include <util/io_utilities.h>
+#include <util/encode/encode.h>
+//#include <util/io_utilities.h>
 
 #include <string>
 #include <vector>
@@ -19,6 +19,10 @@ extern "C" {
 
 int load(LibraryHandle& handle) {
     return 0;
+}
+
+int multi_threading_compatible() {
+    return (1);
 }
 
 int version() {
